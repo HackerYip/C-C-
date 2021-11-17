@@ -1,0 +1,3 @@
+﻿  test.c
+D:\VS2019\test_11_17\test_11_17\test.c(11,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  test_11_17.vcxproj -> D:\VS2019\test_11_17\Debug\test_11_17.exe
