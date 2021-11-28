@@ -1,0 +1,9 @@
+﻿  test.c
+D:\VS2019\test_11_29\test_11_29\test.c(22,16): warning C4013: “gets”未定义；假设外部返回 int
+D:\VS2019\test_11_29\test_11_29\test.c(22,29): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\VS2019\test_11_29\test_11_29\test.c(30,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\VS2019\test_11_29\test_11_29\test.c(36,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\VS2019\test_11_29\test_11_29\test.c(50,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\VS2019\test_11_29\test_11_29\test.c(52,19): warning C4013: “prtinf”未定义；假设外部返回 int
+test.obj : error LNK2019: 无法解析的外部符号 _prtinf，函数 _main 中引用了该符号
+D:\VS2019\test_11_29\Debug\test_11_29.exe : fatal error LNK1120: 1 个无法解析的外部命令
