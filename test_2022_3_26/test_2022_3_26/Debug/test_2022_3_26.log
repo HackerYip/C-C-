@@ -1,0 +1,3 @@
+﻿  test.c
+D:\VS2019\test_2022_3_26\test_2022_3_26\test.c(176,18): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  test_2022_3_26.vcxproj -> D:\VS2019\test_2022_3_26\Debug\test_2022_3_26.exe
